@@ -1,4 +1,4 @@
-# Project-Trillo
+# Project-Nexter
 
 Project Nexter is a project result from course "Advanced CSS and Sass: Flexbox, Grid, Animations and More"
 
